@@ -1,0 +1,3 @@
+helloFunc = () => {
+    console.log("Hello");
+}
