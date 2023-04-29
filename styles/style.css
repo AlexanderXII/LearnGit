@@ -2,3 +2,13 @@
 	padding: 0;
 	margin: 0;
 }
+
+.button-primary {
+	background-color: #759242;
+	border: #ded3a6;
+}
+
+.button-outline {
+	background-color: transparent;
+	border: #374709;
+}
